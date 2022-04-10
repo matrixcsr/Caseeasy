@@ -7,8 +7,8 @@ The Database and account management system is aimed to chart the data in a bar c
 - Installation 
 - Functioning of code
 	- 	Client
-		- 		_Layout.cshtml
-		- 		Index.cshtml
+		- 	Layout.cshtml
+		- 	Index.cshtml
 			- 	Graph Component
 			-	List/Search DB
 		- 	LockedAccounts.cshtml

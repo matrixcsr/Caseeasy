@@ -47,6 +47,7 @@ The Database and account management system is aimed to chart the data in a bar c
 - AspNet MVC v5.2.7 (Framework net 6.0)
 - SQL Server
 - HTML5 / CSS, Bootstrap
+- Jquery
 - Javascript
 - [Chart.js](https://www.chartjs.org/ "Chart.js")
 - [DataTables](https://datatables.net/ "DataTables")
